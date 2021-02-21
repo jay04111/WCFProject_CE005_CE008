@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Library\BookRentalClient\obj\Debug\BookRentalClient.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Library\BookRentalClient\obj\Debug\BookRentalClient.Properties.Resources.resources
+C:\Users\Admin\source\repos\Library\BookRentalClient\obj\Debug\BookRentalClient.UpdateBook.resources
+C:\Users\Admin\source\repos\Library\BookRentalClient\obj\Debug\BookRentalClient.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Library\BookRentalClient\obj\Debug\BookRentalClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Library\BookRentalClient\bin\Debug\BookStore.mdf
+C:\Users\Admin\source\repos\Library\BookRentalClient\bin\Debug\BookStore_log.ldf
+C:\Users\Admin\source\repos\Library\BookRentalClient\bin\Debug\BookRentalClient.exe.config
+C:\Users\Admin\source\repos\Library\BookRentalClient\bin\Debug\BookRentalClient.exe
+C:\Users\Admin\source\repos\Library\BookRentalClient\bin\Debug\BookRentalClient.pdb
+C:\Users\Admin\source\repos\Library\BookRentalClient\obj\Debug\BookRentalClient.exe
+C:\Users\Admin\source\repos\Library\BookRentalClient\obj\Debug\BookRentalClient.pdb
+C:\Users\Admin\source\repos\Library\BookRentalClient\obj\Debug\BookRentalClient.Form1.resources
+C:\Users\Admin\source\repos\Library\BookRentalClient\obj\Debug\BookRentalClient.AddBook.resources
